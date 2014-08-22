@@ -1,3 +1,5 @@
+sbtVersion := "0.13.1"
+
 val sversion = "2.11.1"
 
 val mySettings = Project.defaultSettings ++ Seq(
