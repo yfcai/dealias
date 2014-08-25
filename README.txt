@@ -25,3 +25,7 @@ Look at code
 Client code lives in client/Client.scala and client/SeparatedClient.scala
 
 Macro is defined in macro/dealias.scala
+
+Tried putting the annotation on top of the entire class.
+Does not work, either. The attempt happens in
+macro/dealiasClass.scala and client/AnnotatedClient.scala.
